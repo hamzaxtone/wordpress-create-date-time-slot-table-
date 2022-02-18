@@ -1,4 +1,4 @@
 # wordpress-create-date-time-slot-table-
 
 
-![Screenshot](front-end.png)
+![Screenshot](https://github.com/hamzaxtone/wordpress-create-date-time-slot-table-/blob/main/front-end.PNG)
